@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d84ca94c34b3be746a834d3486cb424f, type: 3}
+  m_Name: config
+  m_EditorClassIdentifier: 
+  WheelPrefab: {fileID: 5569697065142605284, guid: 3de31a1730fd1d04c9e311fdd06e2699, type: 3}
